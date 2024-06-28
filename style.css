@@ -16,8 +16,8 @@ table{
 }
 
 .book{
-    width: 380x;
-    height: 490px;
+    width: 350x;
+    height: 450px;
     perspective: 1500px;
 }
 th, td{
